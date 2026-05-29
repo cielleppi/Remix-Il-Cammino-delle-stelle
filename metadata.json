@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Il Cammino delle Stelle - Metamodello UDL",
+  "description": "Un metamodello di fruizione didattica inclusiva per lo studio dei primi cinque Canti della Divina Commedia, progettato secondo i principi dell\u0027Universal Design for Learning (UDL) e il modello SAMR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
